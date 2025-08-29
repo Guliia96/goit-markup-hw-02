@@ -146,3 +146,11 @@ a {
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
+
+.portfolio {
+  background-color: #ffffff;
+}
+
+.portfolio-list {
+  list-style-type: none;
+}
