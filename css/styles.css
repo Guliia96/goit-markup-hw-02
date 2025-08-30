@@ -9,6 +9,7 @@ ul,
 ol {
   list-style-type: none;
   margin: 0;
+  padding-left: 0;
 }
 
 a {
@@ -87,7 +88,6 @@ a {
   line-height: 1.5;
   letter-spacing: 0.04em;
   border: none;
-  padding: 10px 20px;
 }
 
 .hero-btn:hover,
@@ -164,5 +164,4 @@ a {
 
 .portfolio-list {
   margin: 0;
-  padding: 0;
 }
