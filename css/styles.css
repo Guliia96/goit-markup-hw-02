@@ -92,14 +92,14 @@ a {
 .subtitle {
   font-weight: 500;
   font-size: 20px;
-  line-height: 120%;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
 .text {
   font-size: 16px;
-  line-height: 150%;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
@@ -108,13 +108,12 @@ a {
   background: #f4f4fd;
 }
 .title {
-  font-weight: 700;
   font-size: 36px;
-  line-height: 111%;
-  letter-spacing: 0.02em;
+  line-height: 1.11;
   text-align: center;
-  color: #2e2f42;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
+  color: #2e2f42;
 }
 
 .subtitle-team {
@@ -153,4 +152,6 @@ a {
 
 .portfolio-list {
   list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
